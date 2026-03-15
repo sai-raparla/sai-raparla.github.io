@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sai-raparla
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - M-moore1/SDP-PW-25
+  - sai-raparla/FloodDetection
+  - sai-raparla/PromptShield
+  - sai-raparla/NaiveBayes
+  - sai-raparla/sai-raparla.github.io
