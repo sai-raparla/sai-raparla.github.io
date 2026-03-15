@@ -3,4 +3,8 @@ module.exports = {
   css: ["_site/assets/css/*.css"],
   output: "_site/assets/css/",
   skippedContentGlobs: ["_site/assets/**/*.html"],
+  safelist: {
+    pattern: /^fa-/,
+    deep: [/^fa/, /^fas/, /^far/, /^fab/],
+  },
 };
